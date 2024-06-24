@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "SUNY: A Visual Interpretation Framework for Convolutional Neural Networks from a Necessary and Sufficient Perspective"
 collection: publications
 year: 2024
 venue: 'CVPRw 2024'
