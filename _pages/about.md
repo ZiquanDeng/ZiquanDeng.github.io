@@ -12,4 +12,4 @@ Ziquan Deng is a Ph.D. student from [Department of Mechanical and Aerospace Engi
 
 News
 ======
-[]
+[2024.06.18] Our paper [SUNY: A Visual Interpretation Framework for Convolutional Neural Networks from a Necessary and Sufficient Perspective](https://arxiv.org/abs/2303.00244) is presented in the [3rd CAI4CV Workshop of CVPR 2024](https://xai4cv.github.io/workshop_cvpr24)! Please also check [the introduction video](https://www.youtube.com/watch?v=PZpOPtXDDHo) and [the poster](https://xai4cv.github.io/assets/papers2024/P10_poster.pdf).
