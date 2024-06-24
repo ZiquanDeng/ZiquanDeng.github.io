@@ -10,7 +10,4 @@ redirect_from:
 
 Ziquan Deng is a Ph.D. student from [Department of Mechanical and Aerospace Engineering](https://mae.ucdavis.edu/), [University of California, Davis](https://www.ucdavis.edu/). His research interests include control theory and computer vision. He received his Master's degree in mechanical engineering from [Washinton University in St. Louis](https://wustl.edu/) in 2020.
 
-
-You can find his CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](ziqdeng@ucdavis.edu) / [Github](https://github.com/ZiquanDeng) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=qZhj4yQAAAAJ) 
